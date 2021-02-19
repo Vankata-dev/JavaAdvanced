@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="L06GenericsLab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/L06GenericsLab/out/production/L06GenericsLab/ListUtilities.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L06GenericsLab/out/production/L06GenericsLab/GenericScale.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E01StacksAndQueuesExe/E01StacksAndQueuesExe.iml" filepath="$PROJECT_DIR$/E01StacksAndQueuesExe/E01StacksAndQueuesExe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E02MultydamationalArraysExer/E02MultydamationalArraysExer.iml" filepath="$PROJECT_DIR$/E02MultydamationalArraysExer/E02MultydamationalArraysExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E05FunctionalProgrammingExer/E05FunctionalProgrammingExer.iml" filepath="$PROJECT_DIR$/E05FunctionalProgrammingExer/E05FunctionalProgrammingExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E06GenerixsExer/E06GenerixsExer.iml" filepath="$PROJECT_DIR$/E06GenerixsExer/E06GenerixsExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E07IteratorsAndComparatorsExer/E07IteratorsAndComparatorsExer.iml" filepath="$PROJECT_DIR$/E07IteratorsAndComparatorsExer/E07IteratorsAndComparatorsExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Advanced.iml" filepath="$PROJECT_DIR$/.idea/Java Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01StacksAndQueuesLab/L01StacksAndQueuesLab.iml" filepath="$PROJECT_DIR$/L01StacksAndQueuesLab/L01StacksAndQueuesLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02MultydamationalArraysLab/L02MultydamationalArraysLab.iml" filepath="$PROJECT_DIR$/L02MultydamationalArraysLab/L02MultydamationalArraysLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03SetsAndMapsExer/L03SetsAndMapsExer.iml" filepath="$PROJECT_DIR$/L03SetsAndMapsExer/L03SetsAndMapsExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03SetsAndMapsLab/L03SetsAndMapsLab.iml" filepath="$PROJECT_DIR$/L03SetsAndMapsLab/L03SetsAndMapsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05FunctionalProgrammingLab/L05FunctionalProgrammingLab.iml" filepath="$PROJECT_DIR$/L05FunctionalProgrammingLab/L05FunctionalProgrammingLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06GenericsLab/L06GenericsLab.iml" filepath="$PROJECT_DIR$/L06GenericsLab/L06GenericsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07IteratorsAndComparatorsLab/L07IteratorsAndComparatorsLab.iml" filepath="$PROJECT_DIR$/L07IteratorsAndComparatorsLab/L07IteratorsAndComparatorsLab.iml" />
+    </modules>
+  </component>
+</project>

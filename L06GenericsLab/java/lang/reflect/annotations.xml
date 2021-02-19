@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.reflect.Array java.lang.Object newInstance(java.lang.Class&lt;?&gt;, int)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

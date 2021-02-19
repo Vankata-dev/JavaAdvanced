@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GenericScale">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/L06GenericsLab/src/GenericScale.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

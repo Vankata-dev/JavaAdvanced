@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="E07IteratorsAndComparatorsExer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/E07IteratorsAndComparatorsExer/out/production/E07IteratorsAndComparatorsExer/Collection.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E07IteratorsAndComparatorsExer/out/production/E07IteratorsAndComparatorsExer/StackIterator.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E07IteratorsAndComparatorsExer/out/production/E07IteratorsAndComparatorsExer/ListyIterator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
